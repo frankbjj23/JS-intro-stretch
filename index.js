@@ -4,5 +4,4 @@ console.log(name);
 const age = 43;
 console.log(age);
 
-const greeting = `Hi! My name is Frank and I am 43 years old!`;
-console.log(greeting);
+console.log(`Hi! My name is ${name} and I am ${age} years old!`);
